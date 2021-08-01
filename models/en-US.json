@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "hickory trading radio",
+            "invocationName": "hickory trading",
             "intents": [
                 {
                     "name": "PlayAudio",

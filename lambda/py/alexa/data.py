@@ -22,7 +22,7 @@ jingle = {
 
 en = {
     "card": {
-        "title": 'Hickory Trading Radio',
+        "title": 'HT Radio',
         "text": 'The In-Store Radio for Hickory Trading Coffee Bistro',
         "large_image_url": 'https://www.hickorytrading.com/wp-content/uploads/2017/09/cropped-site-icon-new-htc-2-192x192.png',
         "small_image_url": 'https://www.hickorytrading.com/wp-content/uploads/2017/09/cropped-site-icon-new-htc-2-180x180.png'
